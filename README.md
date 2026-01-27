@@ -110,7 +110,7 @@ DELETE
 <br>
 
 #### 2. Unutar Vašeg foldera klonirati repozitorij s githuba
-    git clone https://github.com/RobertRozic/PZI.git
+    git clone <URL_VAŠEG_REPOZITORIJA> (npr. https://github.com/SUMIT-studenti/PZI.git)
 <br>
 
 #### 3. Napraviti simbolički link sa root/public/dist foldera projekta public folder na posluzitelju
@@ -171,7 +171,7 @@ Prilikom postavljanja laravel aplikacije na studentski poslužitelj potrebno je:
 #### 1. Spojiti se na studentski poslužitelj (upute iznad)
 
 #### 2. Klonirati git repozitorij u svoj radni prostor
-    git clone https://github.com/RobertRozic/PZI.git
+    git clone <URL_VAŠEG_REPOZITORIJA> (npr. https://github.com/SUMIT-studenti/PZI.git)
 
 #### 3. Napraviti simbolički link sa **public** direktorij-a u laravel projektu na **backend** folder na posluzitelj
 
