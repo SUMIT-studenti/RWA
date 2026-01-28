@@ -210,7 +210,7 @@ Generiramo key aplikacije
 * **pwd** - Ispis putanje trenutnog foldera u kojemu se nalazimo (**p**rint **w**ork **d**irectory)
 
 `pwd`  
-`/home/pzi002024`
+`/home/pzi002026`
 
 * **cd** - Promjena direktorija (**c**hange **d**irectory)
 
