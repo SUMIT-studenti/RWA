@@ -1,6 +1,6 @@
-# Programiranje za internet
+# Razvoj web aplikacija
 
-Repozitorij materijala s vježbi kolegija "Programiranje za internet" FPMOZ
+Repozitorij materijala s vježbi kolegija "Razvoj web aplikacija" FPMOZ
 
 ## Upute za izradu laravel aplikacije (lokalno)
 
